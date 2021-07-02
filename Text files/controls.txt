@@ -1,0 +1,22 @@
+*
+CHARACTER 1:
+————————
+A - Walk Left
+D - Walk Right
+F - Enabling Flying
+W - Jump/Fly Upward
+S - Fly Downward
+X - Disable Flying
+Q - Shoot Bullet
+*
+CHARACTER 2:
+————————
+J - Walk Left
+L - Walk Right
+G - Enable Flying
+I - Jump/Fly Upward
+K - Fly Downwards
+N - Disable Flying
+P - Punch
+*
+R - Restart Game
